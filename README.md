@@ -80,14 +80,6 @@ El proyecto sigue el siguiente flujo de trabajo:
 # Estructura del proyecto
 
 ```
-data/
-    raw/
-        tomtom_traffic.csv
-        oecd_city_economy.csv
-
-    processed/
-        latam_mobility_economy_2024.csv
-
 notebooks/
     mobility_economy_analysis.ipynb
 
